@@ -1,0 +1,38 @@
+#Arithematic opeators(addition)
+n1=20
+n2=10
+print("The arithematic operators of n1+n2 is",n1+n2)
+#Arithematic opeators(subtraction)
+n1=20
+n2=10
+print("The arithematic operators of n1-n2 is",n1-n2)
+#Arithmetic operator(division)
+n1=20
+n2=10
+print("The arithematic operators of n1/n2 is",n1/n2)
+#Relational operator(greater than)
+n1=20
+n2=10
+print("The relational operators of n1>n2 is",n1>n2)
+#Relational operator(less than)
+n1=20
+n2=10
+print("The relational operators of n1<n2 is",n1<n2)
+#Relational operator(equal to)
+n1=20
+n2=10
+print("The relational operators of n1==n2 is",n1==n2)
+#Assignment operator
+n1=20
+n2=10
+n3=n1
+print("The assignment operators of n1 and n2 is n3 =",n3)
+#Assignment operator(+=)
+n1=20
+n2=10
+n3+=n1
+print("The assignment operators of n1 and n2 is n3+=",n3)
+#Logical operators
+n1=20
+n2=10
+print("The assignment operators of n1 and n2 is n3+=",n1 AND n2)
